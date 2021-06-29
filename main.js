@@ -1,4 +1,4 @@
-
+playGame(){
 
 let container = document.querySelector(".container");
 createTable();
@@ -74,3 +74,6 @@ function createTable(){
     }
     container.innerHTML = text;
 }
+}
+
+playGame();
