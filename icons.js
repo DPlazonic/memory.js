@@ -16,7 +16,6 @@ let icons = [
     '<i class="fas fa-camera-retro"></i>',
     '<i class="fas fa-capsules"></i>',
     '<i class="fas fa-carrot"></i>',
-    '<i class="fas fa-clock"></i>',
     '<i class="fas fa-anchor"></i>',
     '<i class="fab fa-angellist"></i>',
     '<i class="fas fa-basketball-ball"></i>',
@@ -34,5 +33,4 @@ let icons = [
     '<i class="fas fa-camera-retro"></i>',
     '<i class="fas fa-capsules"></i>',
     '<i class="fas fa-carrot"></i>',
-    '<i class="fas fa-clock"></i>'
 ];
