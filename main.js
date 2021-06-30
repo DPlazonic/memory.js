@@ -38,13 +38,13 @@ function checkTiles(){
             addClicks();
     }else{
         setTimeout(()=>{
-            front1.style.transform = "rotateY(0deg)";
-            back1.style.transform = "rotateY(1800deg)";
-            front2.style.transform = "rotateY(0deg)";
-            back2.style.transform = "rotateY(1800deg)";
+            front1.style.transform = "rotateY(360deg)";
+            back1.style.transform = "rotateY(180deg)";
+            front2.style.transform = "rotateY(360deg)";
+            back2.style.transform = "rotateY(180deg)";
             twoFlipped.length = 0;
             addClicks();
-        },700)  
+        },600)  
     }
 }
 
