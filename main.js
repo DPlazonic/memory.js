@@ -1,4 +1,4 @@
-playGame(){
+function playGame(){
 
 let container = document.querySelector(".container");
 createTable();
