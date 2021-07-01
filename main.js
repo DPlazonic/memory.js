@@ -77,3 +77,12 @@ function createTable(){
 }
 
 playGame();
+
+
+
+
+
+
+
+
+
